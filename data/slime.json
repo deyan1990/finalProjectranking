@@ -1,0 +1,9 @@
+{
+    "framerate": 2,
+    "images": ["img/hero.png"],
+    "frames": {"width":93, "height":89, "regX":0, "regY":0},
+    "animations": {
+        "moving": [1],
+        "notMoving":[0]
+    }
+}
